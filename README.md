@@ -1,1 +1,3 @@
-git clone https://github.com/YOUR_USERNAME/xtream-iptv-player.git
+cd xtream-iptv-player
+./gradlew assembleRelease
+# Output: app/build/outputs/apk/release/app-release.apk
